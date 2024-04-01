@@ -2,6 +2,5 @@
 - 👀 Find me on the Web:
   - https://www.devindow.com/
   - https://www.facebook.com/DevinDow
-  - https://play.google.com/store/apps/developer?id=Devin+Dow
 - 📫 How to reach me : 
   - DevinDow@gmail.com
